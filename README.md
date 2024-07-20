@@ -19,8 +19,14 @@ It's a web scrapping project to get the data of the books that are listed in an 
 ### Exploratory Data Analysis using MySQL
 
 This is some SQL queries documentation about some exploratory data analysis that I record when I do a test for intern vacancy at Schoters Ruangguru. 
-- Technologies: MySQL
+- Technologies: *MySQL*
 - Link: [Exploratory Data Analysis using MySQL](https://github.com/MShiqoFilla/Exploratory-Data-Analysis-using-MySQL/blob/main/Exploratory%20Data%20Analysis%20Menggunakan%20MySQL.sql)
+
+### Simple CRUD Project with Python and MySql
+
+Here is the project to create a simple Create, Remove, Update, Delete (CRUD) system with Python programming language.  The system will input and saves the data of students and store them in MysQL database.
+- Technologies: *Python (pymsysql), MySQL*
+- Link: [Simple CRUD Project with Python and MySql](Simple CRUD Project with Python and MySql)
 
 
 
