@@ -18,7 +18,7 @@ It's a web scrapping project to get the data of the books that are listed in an 
 
 ### Exploratory Data Analysis using MySQL
 
-This is some SQL queries documentation about some exploratory data analysis that I record when I do a test for intern vacancy at Schoters Ruangguru. 
+This is some SQL queries documentation about some exploratory data analysis that I record for intern vacancy test at Schoters Ruangguru. 
 - Technologies: *MySQL*
 - Link: [Exploratory Data Analysis using MySQL](https://github.com/MShiqoFilla/Exploratory-Data-Analysis-using-MySQL/blob/main/Exploratory%20Data%20Analysis%20Menggunakan%20MySQL.sql)
 
