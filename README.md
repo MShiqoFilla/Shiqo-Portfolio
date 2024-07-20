@@ -26,7 +26,7 @@ This is some SQL queries documentation about some exploratory data analysis that
 
 Here is the project to create a simple Create, Remove, Update, Delete (CRUD) system with Python programming language.  The system will input and saves the data of students and store them in MysQL database.
 - Technologies: *Python (pymsysql), MySQL*
-- Link: [Simple CRUD Project with Python and MySql](Simple CRUD Project with Python and MySql)
+- Link: [Simple CRUD Project with Python and MySql](https://github.com/MShiqoFilla/CRUD-Project/)
 
 
 
