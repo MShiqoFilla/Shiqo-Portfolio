@@ -4,6 +4,11 @@ Here I want to share some of my personal works related to data engineering. I ha
 
 ### JKT48 Members Data Web Scrapping
 
-This is a project to extract general data of JKT48 (a girlgroup from Jakarta) members that available in jkt48.com. The object is to get some of their data that is openly available from the website and store in personal database. 
+This is a project to extract general data of JKT48 (a girlgroup from Jakarta) members that available in jkt48.com. The object is to get some of their data that is openly available from the website and store in personal database. Technologies: Python (beautifulsoup, pandas), MySQL database.
 
-Technologies: Python (beautifulsoup, pandas), MySQL database
+Final Results: Database containing the JKT48 members data. 
+Presentation link: https://drive.google.com/file/d/1R-C8PRNPZ8gCjppUQBFRJEY4KKkim-8D
+
+
+
+
