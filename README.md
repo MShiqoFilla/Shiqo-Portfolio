@@ -2,12 +2,11 @@
 
 Greetings! Here I want to share some of my personal works related to data engineering. I have some skills in operating technologies like Python programming language, Relational databases (Postgresql, etc), and workflow orchestrator like Apache Airflow. I hope this page is able to showcase my ability in this topic and records my essential self development throughout the learning processes.
 
-### JKT48 Members Data Web Scrapping
+### Database Normalization in Postgresql
 
-This is a project to extract general data of JKT48 (a girlgroup from Jakarta) members that available in jkt48.com. The object is to get some of their data that is openly available from the website and store it in personal database. 
-- Technologies: *Python (beautifulsoup, pandas, pymysql), MySQL database*.
-- Final Results: Database containing the JKT48 members data. 
-- Presentation link: [JKT48 Members Data Web Scrapping](https://drive.google.com/file/d/1R-C8PRNPZ8gCjppUQBFRJEY4KKkim-8D)
+This project attempts to normalize the table of books data from bukabuku.com that has been stored in the previous project. Normalization means that the "one big table" is broken down to several tables that has relationship with each others to make the data less redundant and more effective. The work is done in DBeaver as database tools with Postgresql RDBMS.
+- Technologies: *Postgresql, DBeaver*.
+- Final Results: Database with normalized form.
 
 ### Bukabuku.com Books Data ETL Pipeline
 
@@ -15,6 +14,13 @@ It's a web scrapping project to get the data of the books that are listed in an 
 - Technologies: *Python (beautifulsoup, pandas), Apache Airflow, Docker, Postgresql*.
 - Final Results: Database and csv file containing books data from bukabuku.com. 
 - Presentation link: [Bukabuku.com Books Data ETL Pipeline](https://drive.google.com/file/d/1Y-yXB__JivMiGWQOvGIpF4E1W7Vhe8ig)
+
+### JKT48 Members Data Web Scrapping
+
+This is a project to extract general data of JKT48 (a girlgroup from Jakarta) members that available in jkt48.com. The object is to get some of their data that is openly available from the website and store it in personal database. 
+- Technologies: *Python (beautifulsoup, pandas, pymysql), MySQL database*.
+- Final Results: Database containing the JKT48 members data. 
+- Presentation link: [JKT48 Members Data Web Scrapping](https://drive.google.com/file/d/1R-C8PRNPZ8gCjppUQBFRJEY4KKkim-8D)
 
 ### Exploratory Data Analysis using MySQL
 
