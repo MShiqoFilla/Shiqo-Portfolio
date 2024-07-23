@@ -4,7 +4,7 @@ Greetings! Here I want to share some of my personal works related to data engine
 
 ### Books Database Normalization in SQL Server and Postgresql
 
-This project attempts to normalize the table of books data from bukabuku.com that has been stored in the previous project. Normalization means that the "one big table" is broken down to several tables that has relationship with each others to make the data less redundant and more effective. The work is done in DBeaver as database tools with Postgresql RDBMS.
+This project attempts to normalize the table of books data from bukabuku.com that has been stored in the previous project. Normalization means that the "one big table" is broken down to several tables that has relationship with each others to make the data less redundant and more effective. The work is done in DBeaver as database tools with Postgresql RDBMS and SSMS for SQL Server.
 - Technologies: *Postgresql (DBeaver), SQL Server (SSMS)*.
 - Final Results: Database with normalized form.
 
