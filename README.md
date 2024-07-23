@@ -2,10 +2,10 @@
 
 Greetings! Here I want to share some of my personal works related to data engineering. I have some skills in operating technologies like Python programming language, Relational databases (Postgresql, etc), and workflow orchestrator like Apache Airflow. I hope this page is able to showcase my ability in this topic and records my essential self development throughout the learning processes.
 
-### Books Database Normalization in Postgresql
+### Books Database Normalization in SQL Server and Postgresql
 
 This project attempts to normalize the table of books data from bukabuku.com that has been stored in the previous project. Normalization means that the "one big table" is broken down to several tables that has relationship with each others to make the data less redundant and more effective. The work is done in DBeaver as database tools with Postgresql RDBMS.
-- Technologies: *Postgresql, DBeaver*.
+- Technologies: *Postgresql (DBeaver), SQL Server (SSMS)*.
 - Final Results: Database with normalized form.
 
 ### Bukabuku.com Books Data ETL Pipeline
