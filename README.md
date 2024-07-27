@@ -14,7 +14,7 @@ This project attempts to normalize the table of books data from bukabuku.com tha
 It's a web scrapping project to get the data of the books that are listed in an online bookstore bukabuku.com. Some of the data includes the title, author, language, pages, price of the book, etc. I built a simple pipeline with Airflow to automate the works from extracting data from the website, transform it, and store it to local postgresql database and snowflake cloud.
 - Technologies: *Python (beautifulsoup, pandas), Apache Airflow, Docker, Postgresql, Snowflake Cloud*.
 - Final Results: Database of books data in PostgreSQL and Snowflake. 
-- Presentation links (there are two): [1. Web Scrapping Project](https://drive.google.com/file/d/1n7Od0Cc2gmsAqfhlU_ldaoaCoSO2GhKp/view?usp=sharing)  [2. Books ETL Pipeline](https://drive.google.com/file/d/19xGRDikrYNEsnqYfTkOsQ3xg5UpJbW5g/view?usp=sharing)
+- Presentation links (there are two): [1. Web Scrapping Project](https://drive.google.com/file/d/1n7Od0Cc2gmsAqfhlU_ldaoaCoSO2GhKp/view?usp=sharing)  [2. Books ETL Pipeline](https://drive.google.com/file/d/1V3ReuIlIUWc3_cCKSFwoA8DtszqMDaPO/view?usp=sharing)
 
 ### JKT48 Members Data Web Scrapping
 
