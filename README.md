@@ -44,5 +44,7 @@ Here is the project to create a simple Create, Remove, Update, Delete (CRUD) sys
 - Technologies: *Python (pymsysql), MySQL*
 - Link: [Simple CRUD Project with Python and MySql](https://github.com/MShiqoFilla/CRUD-Project/)
 
+<!-- This is commented out. -->
+
 
 
