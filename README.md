@@ -32,19 +32,19 @@ This is a project to extract general data of JKT48 (a girlgroup from Jakarta) me
 - Final Results: Database containing the JKT48 members data. 
 - Presentation link: [JKT48 Members Data Web Scrapping](https://drive.google.com/file/d/1R-C8PRNPZ8gCjppUQBFRJEY4KKkim-8D)
 
-### Exploratory Data Analysis using MySQL
+<!-- ### Exploratory Data Analysis using MySQL
 
 This is some SQL queries documentation about some exploratory data analysis that I record for intern vacancy test at Schoters Ruangguru. 
 - Technologies: *MySQL*
 - Link: [Exploratory Data Analysis using MySQL](https://github.com/MShiqoFilla/Exploratory-Data-Analysis-using-MySQL/blob/main/Exploratory%20Data%20Analysis%20Menggunakan%20MySQL.sql)
 
-<!-- ### Simple CRUD Project with Python and MySql -->
+### Simple CRUD Project with Python and MySql 
 
-<!-- Here is the project to create a simple Create, Remove, Update, Delete (CRUD) system with Python programming language.  The system will input and saves the data of students and store them in MysQL database.
+Here is the project to create a simple Create, Remove, Update, Delete (CRUD) system with Python programming language.  The system will input and saves the data of students and store them in MysQL database.
 - Technologies: *Python (pymsysql), MySQL*
-- Link: [Simple CRUD Project with Python and MySql](https://github.com/MShiqoFilla/CRUD-Project/) -->
+- Link: [Simple CRUD Project with Python and MySql](https://github.com/MShiqoFilla/CRUD-Project/)
 
-<!-- This is commented out. -->
+This is commented out. -->
 
 
 
