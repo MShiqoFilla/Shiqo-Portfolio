@@ -4,6 +4,12 @@ Greetings! Here I want to share some of my personal works related to data engine
 
 Tools: Python, SQL (PostgreSQL, SQL Server, etc), Apache Airflow, Snowflake Cloud
 
+### IMO Result Insights with Apache Spark
+
+The goal of this project is to get some insights or information of the all time results of International Mathematical Olympiad (IMO) from some favorite countries (in this case: Australia, Bulgaria, Canada, China, Germany, Hungary, India, Indonesia, Iran, Japan, Korea, Romania, Russia, Thailand, United States) by doing some queries using PySpark, the Apache Spark API for Python. This project is also aimed to showcase my familiarity in using data processing tool, PySpark in order to solve some analytical and data engineering problems.
+- Technologies:: *Python (beautifulsoup, pyspark)*
+- Link: [IMO Result Insights with Apache Spark](https://github.com/MShiqoFilla/IMO-Result-Insights-with-Apache-Spark)
+
 ### Books Database Normalization in SQL Server and Postgresql
 
 This project attempts to normalize the table of books data from bukabuku.com that has been stored in the previous project. Normalization means that the "one big table" is broken down to several tables that has relationship with each others to make the data less redundant and more effective. The work is done in DBeaver as database tools with Postgresql RDBMS and SSMS for SQL Server.
