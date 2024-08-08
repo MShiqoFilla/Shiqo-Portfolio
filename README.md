@@ -16,7 +16,7 @@ The goal of this project is to get some insights or information of the all time 
 This project attempts to normalize the table of books data from bukabuku.com that has been stored in the previous project. Normalization means that the "one big table" is broken down to several tables that has relationship with each others to make the data less redundant and more effective. The work is done in DBeaver as database tools with Postgresql RDBMS and SSMS for SQL Server.
 - Technologies: *Postgresql (DBeaver), SQL Server (SSMS)*.
 - Final results: Database with normalized form.
-- Link: [Books Database Normalization in SQL Server and Postgresql](https://github.com/MShiqoFilla/Books-Database-Normalization)
+- Github repo: [Books Database Normalization in SQL Server and Postgresql](https://github.com/MShiqoFilla/Books-Database-Normalization)
 
 ### Bukabuku.com Books Data ETL Pipeline
 
